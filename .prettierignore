@@ -1,0 +1,8 @@
+dist/
+e2e/.data/
+e2e/.build/
+test-results/
+playwright-report/
+package-lock.json
+docs/
+CLAUDE.md
