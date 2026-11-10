@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "@evcc-addons/sdk": "https://github.com/m75r/evcc-addons/releases/download/2.1.0/evcc-addons-sdk-2.1.0.tgz",
+    "@evcc-addons/sdk": "https://github.com/m75r/evcc-addons/releases/download/2.2.1/evcc-addons-sdk-2.2.1.tgz",
     "@playwright/test": "^1.65.0",
     "@types/node": "^22.20.5",
     "eslint": "^10.14.0",
